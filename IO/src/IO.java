@@ -1,7 +1,7 @@
 import java.io.*;
 
 public class IO {
-
+	// SERIALIZATION EXAMPLE
 	public static void main (String[] args) {
 			
 			
