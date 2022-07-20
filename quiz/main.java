@@ -1,5 +1,5 @@
 package quiz;
-
+//BASİC WRITING AND READING EXAMPLE
 import java.io.*;
 import java.util.*;
 public class main {
